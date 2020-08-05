@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="http://epg.streamstv.me/epg/guide-india.xml.gz"
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="https://i.imgur.com/WfAU7pB.png" group-title="Entertainment",3 Tamil TV
-https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2018/12/PUNJAB5AAB.jpg" group-title="",5aab TV
-http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="http://mhdtvworld.com/wp-content/uploads/2019/07/7s_music.png" group-title="Music",7S Music
-http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://lifemasti.mobie.in/files/wmlm.png" group-title="Entertainment",3 Lifemasti TV
+https://llvod.mxplay.comvideo/7f59aad6a54784c2e94e20bf935d000f/8/hls/h264_high.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://lifemasti.mobie.in/files/wmlm.png" group-title="Hindi Dubbed",lifemasti TV
+https://llvod.mxplay.comvideo/4708eaada1eb26c123a49da5c4a699e4/5/hls/h264_baseline.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="https://lifemasti.mobie.in/files/wmlm.png" group-title="Hindi Dubbed",lifemasti
+https://llvod.mxplay.comvideo/d3f6294a68f0b97c184698608cb6e9ef/7/hls/h264_high.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Tamil" tvg-logo="https://i.imgur.com/IgwQ7o5.png" group-title="Entertainment",Aathavan TV
 http://45.77.66.224:1935/athavantv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg" group-title="",ABP Ananda
